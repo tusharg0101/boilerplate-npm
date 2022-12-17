@@ -3,6 +3,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Tushar Goyal",
 	"version": "1.0",
+	"description": "npm project",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
